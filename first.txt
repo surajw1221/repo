@@ -1,2 +1,2 @@
 First git file
-First git to be modified
+Git is a distributes version control system
