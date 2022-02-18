@@ -1,2 +1,5 @@
 First git file
 For Sl assignment
+Editing inside the localRepo1
+Next comes staging the file 
+And committing it....
